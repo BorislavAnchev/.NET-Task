@@ -1,0 +1,9 @@
+C:\Users\bobia_000\source\repos\DotNETInternTask\DotNETInternTask\bin\Debug\DotNETInternTask.exe.config
+C:\Users\bobia_000\source\repos\DotNETInternTask\DotNETInternTask\bin\Debug\DotNETInternTask.exe
+C:\Users\bobia_000\source\repos\DotNETInternTask\DotNETInternTask\bin\Debug\DotNETInternTask.pdb
+C:\Users\bobia_000\source\repos\DotNETInternTask\DotNETInternTask\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bobia_000\source\repos\DotNETInternTask\DotNETInternTask\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bobia_000\source\repos\DotNETInternTask\DotNETInternTask\obj\Debug\DotNETInternTask.csprojAssemblyReference.cache
+C:\Users\bobia_000\source\repos\DotNETInternTask\DotNETInternTask\obj\Debug\DotNETInternTask.csproj.CopyComplete
+C:\Users\bobia_000\source\repos\DotNETInternTask\DotNETInternTask\obj\Debug\DotNETInternTask.exe
+C:\Users\bobia_000\source\repos\DotNETInternTask\DotNETInternTask\obj\Debug\DotNETInternTask.pdb
